@@ -17,7 +17,8 @@ function App() {
         </div>
         <div>
           <h1>Get started Muksid </h1>
-          <h1>React + Jenkins CI/CD 3 ni sinab kor avtomatik</h1>
+          <h1>React + Jenkins CI/CD 3 ni sinab kor avtomatik demak 1 minutlarda ishlaydi shundaymi?</h1>
+          <p>Test Turon</p>
 
         </div>
         <button
