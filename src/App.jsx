@@ -17,10 +17,8 @@ function App() {
         </div>
         <div>
           <h1>Get started Muksid </h1>
-          <h1>React + Jenkins CI/CD 2</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+          <h1>React + Jenkins CI/CD 3 ni sinab kor avtomatik</h1>
+
         </div>
         <button
           type="button"
